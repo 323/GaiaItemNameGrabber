@@ -11,4 +11,6 @@ A note on the source code: To compile it, you need Isonyx's HTTPRequest Java HTT
 
 Along with Apache's Commons Lang (Which can be found here: http://commons.apache.org/proper/commons-lang/)
 
+Note: The .txt file in the ~/bin folder is an example output. First you see the Item ID, and then after that the item's name.
+
 Enjoy!
